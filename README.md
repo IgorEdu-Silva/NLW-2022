@@ -3,5 +3,10 @@ Meu feito no NLW 2022.
 
 #
 # Tecnologias
-- HTML
-- CSS
+ - [X] HTML
+ - [X] CSS
+#
+
+# Página
+
+* https://igoredu-silva.github.io/NLW-2022/
