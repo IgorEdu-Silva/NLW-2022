@@ -1,12 +1,11 @@
 # NLW 2022
-Meu feito no NLW 2022.
+Meu projeto do NLW 2022.
 
-#
 # Tecnologias
- - [X] HTML
- - [X] CSS
+ - ![Static Badge](https://img.shields.io/badge/html-e34c26)
+ - ![Static Badge](https://img.shields.io/badge/css-264de4)
 #
 
 # Página
 
-* https://igoredu-silva.github.io/NLW-2022/
+* [NLW-2022](https://igoredu-silva.github.io/NLW-2022/)
